@@ -1,6 +1,6 @@
 // Paste your deployed Google Apps Script Web App URL here.
 // Example: const GAS_WEB_APP_URL = "https://script.google.com/macros/s/XXXXX/exec";
-const GAS_WEB_APP_URL = "";
+const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzMg0865F8vu2rkIcqWLeMy58tZr6Xha8thH-K_TcGHmGwcmSc9uhrQ12DWK4qpa_NXDw/exec";
 
 const STORAGE_KEY = "puoCampusCareRequests";
 
